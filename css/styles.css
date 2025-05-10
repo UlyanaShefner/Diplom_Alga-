@@ -1,5 +1,39 @@
 header {
-    background-color: blueviolet;
+    background-color: #833AE1;
     padding: 20px 30px;
+    display: flex;
+    justify-content: space-between;
+    max-width: none;
+    align-items: center;
 
+}
+
+header div {
+    display: flex;
+    align-items: center;
+    gap: 95px;
+
+}
+
+header div a {
+    font-family: Montserrat;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 30px;
+    letter-spacing: 0%;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-style: solid;
+    text-decoration-offset: 0%;
+    text-decoration-thickness: 0%;
+
+
+}
+footer {
+    max-width: none;
+    padding-top:27px ;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom:30px ;
+    
 }
